@@ -22,7 +22,7 @@ Like Black Lagoon, basically.
 
 ## Case File - Emergency Investigation and Response
 
-## Occult Grind - Hustles and Horror in Middle America
+## Occult Grind - Hustles and Horror in Urban America
 ## Dark State - A tour of duty to hold back deep waters
 # Definitions for success
 For abio to be successful, we need to create a tabletop tactical adventure that can be described as stalker meets half life.
