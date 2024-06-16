@@ -1,4 +1,4 @@
-# Pitch
+# Setting Pitch
 v2
 
 The game takes place in a near-future, years after the Earth was been seeded with anomalous materiel and phenomena which have transformed the landscape.
