@@ -1,3 +1,4 @@
+
 # Incapacitation
 
 A character who is incapacitated is unable to act.

@@ -1,12 +1,12 @@
 # Injury Decks
 ## By Effect
 ### Blood
-lose [severity] trauma per round.
+lose [severity] health per round.
 ### Stun
 lose [severity] ticks
 ### Pain
 lose [severity] dice for the exchange of fire.
-### Structural trauma
+### Structural health
 multiply damage by [severity]
 
 tasks that use the affected region gain a penalty equal to [severity].
@@ -17,7 +17,7 @@ Special:
 
 ## Generic Structural effects
 ### Venous
-The character loses an amount of trauma equal to the [severity] per round.
+The character loses an amount of health equal to the [severity] per round.
 ### musculoskeletal, nervous
 Character receives a penalty of [severity] \* 2 to actions requiring that muscle or bone. If the penalty drops the odds of success below 0, the limb is useless.
 ### Organs
@@ -26,7 +26,7 @@ multiply damage by [severity].
  GMs are recommended to not use these examples regularly - they are primarily for illustrative purposes.
 ### Example Organ effects
 https://www.aast.org/resources-detail/injury-scoring-scale
-https://journals.lww.com/jtrauma/Abstract/1989/12000/Organ_Injury_Scaling__Spleen,_Liver,_and_Kidney.14.aspx
+https://journals.lww.com/jhealth/Abstract/1989/12000/Organ_Injury_Scaling__Spleen,_Liver,_and_Kidney.14.aspx
 #### 1 - Minor injury
 - bruise
 #### 2 - Moderate Injury

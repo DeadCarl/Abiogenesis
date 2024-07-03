@@ -1,43 +1,55 @@
 SELECTED Candidate 11: integrated into health system
 Source: combination of Traveller and Spycraft rules
-## Durability
-Starts at 0, grows to a maximum of FIT+MUS+RES. Damage allocates first to durability full, then to trauma.
-## Trauma
-starts at 0, grows with all injuries beyond the character's durability capacity.
-
-If the trauma score passes a character's trauma limit of 21 points (or 15+FIT), the character takes an instant critical hit and is totally [[Trauma care|incapacitated]] from major trauma.
+## vitality
+Starts at 0, grows to a maximum of FIT+MUS+RES. Damage allocates first to vitality until full, then to health condition.
+## health condition
+starts at 15+FIT (or 21 points), worsens with all injuries beyond the character's vitality.
 	note: 21 is based on the rule of 3s
-
-you gain trauma by ...
-- taking damage in excess of durability
-* failing to eat during the day
-	- gain 1 trauma. Can only be reversed when receiving sufficient food.
-- failing to drink during the day
-	- gain 7 trauma. Can only be reversed when receiving sufficient water.
- - life threatening injury (d)
-	 - gain 1 trauma per degree(d) of the wound per turn.
 	
-if unconscious with a life threatening injury
-	- gain 1 trauma per degree of the wound
+When a character's health condition reaches 0, they are instantly [[incapacitated]], suffer a critical hit and cannot further participate in the fight.
 
-You can voluntarily earn trauma...
+When a character's health goes into the negatives, their injury becomes a threat to life. If a character reaches the negative of their health condition score, they are dead.
+## Fatigue
+
+If a character's health plus their fatigue reaches below zero, they are [[incapacitated]]. They do not suffer a critical hit, nor do they require hospital care to return to the fight.
+
+## Recovery
+
+### Wounds
+A character with less than full health only needs field care to recover. Hospital care can  speed up the healing process.
+### Incapacitation
+A patient with a critical injury or negative health requires hospital-level care to recover. This may be as little as complete bed rest and recuperation, which results in an incredibly slow process, incredibly fast with a complete intensive care unit with a full surgical staff, or a mixture inbetween.
+
+However this goes, a character recovers health by the healing factor from their hospital care. For now, for now, the healing factor ranges between .1 to 1 times the protective factor of the building they are housed in.
+
+---
+
+A character's condition worsens by ...
+- taking damage in excess of vitality
+* failing to eat during the day
+	- lose 1 health. Can only be reversed when receiving sufficient food.
+- failing to drink during the day
+	- lose 7 health. Can only be reversed when receiving sufficient water.
+ - life threatening injury (d)
+	 - lose 1 health per degree(d) of the wound per turn.
+
+You can voluntarily worsen your health condition...
 - you may...
-	- reduce fatigue by 2 (1 trauma)
-	- reduce durability by 5 (1 trauma).
+	- improve fatigue by 2 (1 health condition)
+	- improve vitality by 5 (1 health condition).
 		- Can only happen once per exchange of fire.
 		- to a maximum of 
-- You can only spend trauma on your turn with a 5 tick action.
-- You cannot spend trauma while [[Trauma care|incapacitated]].
+- You can only spend health condition on your turn with a 5 tick action.
+- You cannot spend health while [[health condition care|incapacitated]].
 
-you can lose trauma by...
-- a day of normal rest by 1 point
+you can improve health by...
+- 1 point per day of normal rest
 - a day of bedrest by amount equal to Healing Factor.
 - eating and drinking normally reverses 1 batch of starvation and dehydration damage 
-- eating, drinking in excess reduces trauma by 1, to a maximum of 2.
+- eating, drinking in excess reduces health condition by 1, to a maximum of 2.
 
-Some trauma is temporary
- - You can gain 7 trauma for every minute with zero oxygen. This is reversed at a rate of 7 trauma per 5 ticks of breathing air again.
-
+Some health condition is temporary
+ - You can lose 7 health for every minute with zero oxygen. This is reversed at a rate of 7 health condition per 5 ticks of breathing air again.
 ## Criticals and Hit locations
 ### operating procedure for crits
 1. Every dice that turns up 1 is a critical.
@@ -52,15 +64,16 @@ Some trauma is temporary
 4. Player writes the crit on their sheet, applies effect
 ### Severity
 
-| Critical Severity |        |          |                                 |     |
-| ----------------- | ------ | -------- | ------------------------------- | --- |
-| Code              | Margin | Injury   | Example                         |     |
-| 0                 | 0      | Minor    | -                               |     |
-| 1                 | 1      | Moderate | fractured sternum               |     |
-| 2                 | 2      | Serious  | open fracture of humerus        |     |
-| 3                 | 4      | Severe   | perforated trachea              |     |
-| 4                 | 8      | Critical | ruptured liver with tissue loss |     |
-| 5                 | 16     | Maximal  | total severance of aorta        |     |
+|          | Critical Severity |        |          |                                 |     |
+| -------- | ----------------- | ------ | -------- | ------------------------------- | --- |
+| IRL Code | game Code         | Margin | Injury   | Example                         |     |
+| 1        | 0                 | 0      | Minor    | -                               |     |
+| 2        | 1                 | 1      | Moderate | fractured sternum               |     |
+| 3        | 2                 | 2      | Serious  | open fracture of humerus        |     |
+| 4        | 3                 | 4      | Severe   | perforated trachea              |     |
+| 5        | 4                 | 8      | Critical | ruptured liver with tissue loss |     |
+| 6        | 5                 | 16     | Maximal  | total severance of aorta        |     |
+Severity is impacted by the availability of definitive care
 ### Alternative
 
 ### Source material: Severity
@@ -94,10 +107,10 @@ https://www.aast.org/resources-detail/injury-scoring-scale
 
 ---
 # Fatigue
-starts at 0 and grows. Soft stacks on top of trauma.
+starts at 0 and grows. Soft stacks on top of health condition.
 
-If the trauma and fatigue combined passes the trauma limit, the character has to take a will check or fall unconscious.
-    They regain consciousness when their combined trauma/fatigue score is reduced.
+If the health condition and fatigue combined passes the health condition limit, the character has to take a will check or fall unconscious.
+    They regain consciousness when their combined health condition/fatigue score is reduced.
 
 For logistical purposes, Unconscious characters execute their turns at the following rates:
 - 10 ticks in an exchange of fire
@@ -112,21 +125,21 @@ fatigue is increased by...
 	-  per work period
 - +1 per encounter: not sleeping after a day of combat
 	- per encounter
-- +x: fatigue damage in excess of durability from certain weapons
+- +x: fatigue damage in excess of vitality from certain weapons
 - x 2: adverse weather conditions
 	- per condition
 
 fatigue is reduced by...
-- Standard rest. Reduces fatigue by half the trauma limit
-- partial rest. Reduces fatigue by a quarter of the character's trauma limit
+- Standard rest. Reduces fatigue by half the health condition limit
+- partial rest. Reduces fatigue by a quarter of the character's health condition limit
 # Sustenance hazard
-## Trauma
-If using the sustenance hazard, you can gain trauma by ...
+## health condition
+If using the sustenance hazard, your condition worsens by ...
 * failing to eat during the day
-	- +1 trauma. 
+	- +1 health condition. 
 	- Can only be reversed when receiving sufficient food.
 - failing to drink during the day
-	- +7 trauma. 
+	- +7 health condition. 
 	- Can only be reversed when receiving sufficient water.
 
 # Critical conditions
