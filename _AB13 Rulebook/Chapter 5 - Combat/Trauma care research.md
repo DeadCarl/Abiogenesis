@@ -14,6 +14,56 @@ Definitive care is a type of emergency medical care that aims to manage a patie
 https://en.wikipedia.org/wiki/Trauma_triad_of_death
 
 ```
+The Golden Hour is a standard used in emergency medicine and trauma care that states a person should receive definitive resuscitative and surgical care within one hour from injury. This is based on the belief that medical outcomes are improved if patients receive definitive care within the first sixty minutes after injury
+```
+```
+In a paper by Unlu et al. the authors argued that “the urban legend of the ‘Golden 
+Hour of shock’ does not quite apply to combat trauma” (Unlu et al. 2013, 84). They 
+suggested that casualties may only have a critical five to fifteen minutes instead. This is, 
+in fact, consistent with what Dr. Cowley actually argued when he made his Golden Hour 
+statement. Immediately after making his Golden Hour claim, Dr. Cowley went on to state 
+that the trauma patient may in fact have only a critical fifteen minutes (Lerner and 
+Moscati 2001). 
+```
+```
+MacLeod et al. investigated civilian trauma deaths that 
+occurred within the first sixty minutes after injury to determine if they were all non-
+survivable. The authors concluded that the overwhelming majority of patients with all 
+causes of death were most likely to die in the first fifteen minutes of injury (MacLeod et 
+al. 2007). 
+```
+
+```
+Several others directly investigated if this held true for combat injuries and similar 
+injuries in civilian settings. These studies concluded that there are at least two peaks of 
+death. They are the time interval from five to fifteen minutes and the interval between 
+sixty and one hundred eighty minutes (Champion et al. 2003; Clarke et al. 2002; 
+Osterwalder 2002; Demetriades et al. 2005). In light of these studies Remik et al., during 
+their review of trauma literature, made recommendations regarding medical evacuation 
+for military medical systems. They acknowledged the lack of data for a Golden Hour time limit and suggested that increased quality of en route care can significantly extend the survival window for combat injured (Remick et al. 2010). 
+```
+```
+The determination of potentially survivable was based on an artificial standard that the service member could immediately receive optimal care at a ROLE III facility. The study acknowledged that only one in three of these potentially survivable deaths actually could be cared for with current technology.
+```
+
+```
+Of the potentially survivable deaths, 91 percent were due to hemorrhage and 8 
+percent were due to problems with airway management. The number and percentage of 
+potentially survivable deaths due to hemorrhage was likely inflated because the universal 
+use of approved combat tourniquets was not standard until 2007 (Cordts, Brosch, and 
+Holcomb 2008). Both of these causes of death must be addressed within the first few 
+minutes. Brain death can result after as little as five minutes without adequate oxygen. 
+```
+
+```
+Other studies support these findings that hemorrhage is the overwhelming cause 
+of potentially survivable deaths. Kelly et al. determined that 83 percent to 87 percent of 
+these deaths had hemorrhage and 10 percent to 15 percent of these deaths had inadequate 
+airway management as contributing factors
+```
+source ^[https://apps.dtic.mil/sti/citations/ADA624140]
+
+```
 In the early 1980s, R. Adam Cowley, a U.S. military surgeon popularized the term "golden hour," words often used in trauma and emergency medicine settings. The term's origins lie in photography and reference the first hour of light after the sun rises and the last hour of light before sunset. That concept of a critical window of perfect sunlight was co-opted by emergency medical providers to refer to the crucial period of time immediately after an injury when appropriate life-saving medical or surgical intervention can offer the highest chance of survival for a traumatically injured patient.
 ```
 
@@ -51,64 +101,11 @@ Extended care also means oxygen, McQueen said, which requires two technologies: 
 ```
 source ^[https://taskandpurpose.com/news/golden-hour-army-medical-training-ukraine/]
 
-```
-The Golden Hour is a standard used in emergency medicine and trauma care that states a person should receive definitive resuscitative and surgical care within one hour from injury. This is based on the belief that medical outcomes are improved if patients receive definitive care within the first sixty minutes after injury
-```
-```
-In a paper by Unlu et al. the authors argued that “the urban legend of the ‘Golden 
-Hour of shock’ does not quite apply to combat trauma” (Unlu et al. 2013, 84). They 
-suggested that casualties may only have a critical five to fifteen minutes instead. This is, 
-in fact, consistent with what Dr. Cowley actually argued when he made his Golden Hour 
-statement. Immediately after making his Golden Hour claim, Dr. Cowley went on to state 
-that the trauma patient may in fact have only a critical fifteen minutes (Lerner and 
-Moscati 2001). 
-```
-```
-MacLeod et al. investigated civilian trauma deaths that 
-occurred within the first sixty minutes after injury to determine if they were all non-
-survivable. The authors concluded that the overwhelming majority of patients with all 
-causes of death were most likely to die in the first fifteen minutes of injury (MacLeod et 
-al. 2007). 
-```
-
-```
-Several others directly investigated if this held true for combat injuries and similar 
-injuries in civilian settings. These studies concluded that there are at least two peaks of 
-death. They are the time interval from five to fifteen minutes and the interval between 
-sixty and one hundred eighty minutes (Champion et al. 2003; Clarke et al. 2002; 
-Osterwalder 2002; Demetriades et al. 2005). In light of these studies Remik et al., during 
-their review of trauma literature, made recommendations regarding medical evacuation 
-for military medical systems. They acknowledged the lack of data for a Golden Hour 
-time limit and suggested that increased quality of en route care can significantly extend 
-the survival window for combat injured (Remick et al. 2010). 
-```
-```
-The determination of potentially survivable was based on an artificial standard 
-that the service member could immediately receive optimal care at a ROLE III facility. 
-The study acknowledged that only one in three of these potentially survivable deaths 
-actually could be cared for with current technology.
-```
-
-```
-Of the potentially survivable deaths, 91 percent were due to hemorrhage and 8 
-percent were due to problems with airway management. The number and percentage of 
-potentially survivable deaths due to hemorrhage was likely inflated because the universal 
-use of approved combat tourniquets was not standard until 2007 (Cordts, Brosch, and 
-Holcomb 2008). Both of these causes of death must be addressed within the first few 
-minutes. Brain death can result after as little as five minutes without adequate oxygen. 
-```
-
-```
-Other studies support these findings that hemorrhage is the overwhelming cause 
-of potentially survivable deaths. Kelly et al. determined that 83 percent to 87 percent of 
-these deaths had hemorrhage and 10 percent to 15 percent of these deaths had inadequate 
-airway management as contributing factors
-```
-source ^[https://apps.dtic.mil/sti/citations/ADA624140]
-
 source ^[https://medcoeckapwstorprd01.blob.core.usgovcloudapi.net/pfw-images/dbimages/Ch%202.pdf]
 
-
+```
+Only Half of Casualties with Potentially Survivable Lethal Injuries Will Survive the Golden Hour A 2012 analysis of combat casualties from the first decade of post-9/11 conflict serves as a valuable foundation for planning medical support for offensive operations. The study analyzed nearly 4,600 combat fatalities in Iraq and Afghanistan through June 2011 and found that 87.3 percent of deaths occurred prior to hospital arrival. Of those deaths, approximately one in four was deemed potentially survivable from a strictly medical perspective, which means prehospital care and evacuation influenced up to one thousand combat-related deaths by 2011.1 
+```
 source ^[https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MA-20/Beldowicz-Golden-Hour.pdf]
 # Sources
 

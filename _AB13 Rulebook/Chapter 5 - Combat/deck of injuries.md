@@ -1,6 +1,6 @@
 # Injury Decks
 ## By Effect
-### Blood
+### Instability
 lose [severity] health per round.
 ### Stun
 lose [severity] ticks

@@ -1,22 +1,3 @@
-
-# Incapacitation
-
-A character who is incapacitated is unable to act.
-
-When a character reaches maximum trauma, they are incapacitated.
-If a character receives a critical hit, they must roll a resolve test or be incapacitated.
-
-# Instability
-
-Major trauma requires critical care within a certain time period for a good prognosis, which can be extended by stabilization. Failure to apply critical care in this time period results in a poor prognosis.
-
-**Good prognosis**: A character with a good prognosis eventually returns to the campaign.
-
-**Poor prognosis**: A poor medical outcome means the character is permanently removed from play in the campaign, either through death or extreme disability.
-
-
-# Source
-
 ## Golden Hour
 https://en.wikipedia.org/wiki/Golden_hour_(medicine)
 ## Loss of Consciousness, Coma

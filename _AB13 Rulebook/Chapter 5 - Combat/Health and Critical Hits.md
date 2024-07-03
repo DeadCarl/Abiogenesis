@@ -1,29 +1,18 @@
 SELECTED Candidate 11: integrated into health system
 Source: combination of Traveller and Spycraft rules
+Added: Candidate 1 for trauma care
 ## vitality
 Starts at 0, grows to a maximum of FIT+MUS+RES. Damage allocates first to vitality until full, then to health condition.
 ## health condition
 starts at 15+FIT (or 21 points), worsens with all injuries beyond the character's vitality.
 	note: 21 is based on the rule of 3s
 	
-When a character's health condition reaches 0, they are instantly [[incapacitated]], suffer a critical hit and cannot further participate in the fight.
+When a character's health condition reaches 0, they are instantly [[incapacitated]], suffer from either a critical hit or [instability] equal to the negative health score they were hit by, and cannot further participate in the fight. 
 
-When a character's health goes into the negatives, their injury becomes a threat to life. If a character reaches the negative of their health condition score, they are dead.
-## Fatigue
+When a character's health goes into the negatives, their injury is life threatening and they require resuscitation. If a character reaches the negative of their health condition score, they are dead.
 
-If a character's health plus their fatigue reaches below zero, they are [[incapacitated]]. They do not suffer a critical hit, nor do they require hospital care to return to the fight.
-
-## Recovery
-
-### Wounds
-A character with less than full health only needs field care to recover. Hospital care can  speed up the healing process.
-### Incapacitation
-A patient with a critical injury or negative health requires hospital-level care to recover. This may be as little as complete bed rest and recuperation, which results in an incredibly slow process, incredibly fast with a complete intensive care unit with a full surgical staff, or a mixture inbetween.
-
-However this goes, a character recovers health by the healing factor from their hospital care. For now, for now, the healing factor ranges between .1 to 1 times the protective factor of the building they are housed in.
 
 ---
-
 A character's condition worsens by ...
 - taking damage in excess of vitality
 * failing to eat during the day
@@ -35,21 +24,52 @@ A character's condition worsens by ...
 
 You can voluntarily worsen your health condition...
 - you may...
-	- improve fatigue by 2 (1 health condition)
-	- improve vitality by 5 (1 health condition).
+	- improve fatigue by 2 (1 health)
+	- improve vitality by 5 (1 health).
 		- Can only happen once per exchange of fire.
-		- to a maximum of 
 - You can only spend health condition on your turn with a 5 tick action.
-- You cannot spend health while [[health condition care|incapacitated]].
+- You cannot spend health to or while [[health condition care|incapacitated]].
 
-you can improve health by...
-- 1 point per day of normal rest
-- a day of bedrest by amount equal to Healing Factor.
-- eating and drinking normally reverses 1 batch of starvation and dehydration damage 
-- eating, drinking in excess reduces health condition by 1, to a maximum of 2.
+~~you can improve health by...
+- ~~1 point per day of normal rest
+- ~~a day of bedrest by amount equal to Healing Factor.
+- ~~eating and drinking normally reverses 1 batch of starvation and dehydration damage 
+- ~~eating, drinking in excess reduces health condition by 1, to a maximum of 2.
 
 Some health condition is temporary
  - You can lose 7 health for every minute with zero oxygen. This is reversed at a rate of 7 health condition per 5 ticks of breathing air again.
+## Fatigue
+
+If a character's health plus their fatigue reaches below zero, they are [[incapacitated]]. They do not suffer a critical hit, nor do they require hospital care to return to the fight.
+### Wounds
+A character with more than 0 health only needs field care to recover. Hospital care can  speed up the healing process.
+## Critical injuries
+A patient with a critical injury requires hospital-level care to recover.
+## Incapacitation
+### Stage I
+NPCs (or PCs who aren't story essential) can be handled in 2 ways by the GM's discretion:
+1. their survival isn't relevant enough, so they are instantly removed from play
+2. secondary characters who are relevant can roll a fitness check - the amount of negative health. If they fail this check, they are removed from play
+### Stage II
+A story relevant patient experiencing negative health requires hospital-level care to recover. This may be as little as complete bed rest and recuperation, an incredibly slow process, an incredibly fast recovery through an intensive care unit with a full surgical staff, or a mixture in-between.
+
+However this goes, a character recovers health by the healing factor from their hospital care. For now, for now, the healing factor ranges between .1 to 1 times the Quality of life factor of the building they are housed in.
+## Instability
+An unstable character is in the process of experiencing the trauma triad: 
+
+```
+Severe [bleeding](https://en.wikipedia.org/wiki/Bleeding "Bleeding") in trauma diminishes [oxygen delivery](https://en.wikipedia.org/wiki/Oxygen_delivery "Oxygen delivery"), and may lead to [hypothermia](https://en.wikipedia.org/wiki/Hypothermia "Hypothermia"). This in turn can halt the [coagulation cascade](https://en.wikipedia.org/wiki/Coagulation "Coagulation"), preventing [blood from clotting](https://en.wikipedia.org/wiki/Coagulopathy "Coagulopathy"). In the absence of blood-bound oxygen and nutrients ([hypoperfusion](https://en.wikipedia.org/wiki/Hypoperfusion "Hypoperfusion")) the body's cells burn glucose [anaerobically](https://en.wikipedia.org/wiki/Lactic_acid_fermentation "Lactic acid fermentation") for energy, causing the release of [lactic acid](https://en.wikipedia.org/wiki/Lactic_acid "Lactic acid"), [ketone bodies](https://en.wikipedia.org/wiki/Ketone_bodies "Ketone bodies"), and other [acidic](https://en.wikipedia.org/wiki/Acid "Acid") compounds into the blood stream, which lower the blood's [pH](https://en.wikipedia.org/wiki/PH "PH"), leading to [metabolic acidosis](https://en.wikipedia.org/wiki/Metabolic_acidosis "Metabolic acidosis"). Such an increase in acidity damages the tissues and organs of the body and can reduce [myocardial performance](https://en.wikipedia.org/wiki/Cardiac_output "Cardiac output"), further reducing the oxygen delivery.[
+```
+In other words, they are bleeding out and losing the oxygen necessary to avoid brain damage.
+
+For every operational tick (1 exchange of fire or 1 minute), a character rolls a fitness test - the current degree of instability. On success, the degree of instability decreases by 1, but on failure the character's health is reduced by the instability score.
+
+If a character receives an additional piece of instability, either the current instability score is exchanged for the higher score, or it is increased by 1.
+
+### Treating instability
+Resuscitating a character is the preferred way to go. A Resuscitation is a supply dependent  operational task that uses first aid supplies to roll an emergency medicine skill - the degree of instability.
+
+Success on the main die reduces instability by the margin of success -2 (minimum 1). On a primary failure, the patient's health is reduced by their current instability score, and on a secondary failure the technician uses up a unit of first aid.
 ## Criticals and Hit locations
 ### operating procedure for crits
 1. Every dice that turns up 1 is a critical.
@@ -102,10 +122,6 @@ https://www.aast.org/resources-detail/injury-scoring-scale
 | 5                             | muscularskeletal  (inc. muscles/ligaments) (inc. joints) |
 | 6                             | Loss of Consciousness (head only)                        |
 
-## Stage III: Headshot!
-- Damage is increased by 4 when making a head shot
-
----
 # Fatigue
 starts at 0 and grows. Soft stacks on top of health condition.
 
@@ -142,4 +158,7 @@ If using the sustenance hazard, your condition worsens by ...
 	- +7 health condition. 
 	- Can only be reversed when receiving sufficient water.
 
-# Critical conditions
+## Stage III: Headshot!
+- Damage is increased by 4 when making a head shot
+
+---
