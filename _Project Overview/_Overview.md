@@ -37,6 +37,8 @@ Inspiration comes from the gameplay loop and the protagonist's situation as a hu
 Roadside picnic increases this by introducing the concept of cosmic litter seeding the planet with bizarre behavior.
 ## HP Lovecraft
 Shadow over Innsmouth, The Color out of Space
+
+## X-COM
 ## Half Life
 anomalous events and monstrous aliens upend the immersive operations of a top secret government facility on the bleeding edge of scientific discovery.
 ## Annihilation
@@ -46,6 +48,11 @@ Immersion into a mysterious world of occult detective work hidden behind potemki
 ## X-Files
 Immersion into solving the threats of paranormal activity that society is unequipped to handle 
 ## Still Wakes the Deep
+
+## Other inspiration
+- Hunt; Showdown
+- Jagged Alliance
+- 
 
 #  Themes
 ## The State in Social Preservation mode

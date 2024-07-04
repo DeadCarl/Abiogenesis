@@ -96,3 +96,46 @@ or dmg > stat = degree of crit? (min 1)
 ## Old candidate for degree of crit
 1d6+MOS > stat = degree of crit
 
+
+---
+
+# Fatigue
+starts at 0 and grows. Soft stacks on top of health condition.
+
+If the health condition and fatigue combined passes the health condition limit, the character has to take a will check or fall unconscious.
+    They regain consciousness when their combined health condition/fatigue score is reduced.
+
+For logistical purposes, Unconscious characters execute their turns at the following rates:
+- 10 ticks in an exchange of fire
+- once in a tactical pause
+- once per minute out of combat.
+
+fatigue is increased by...
+- +1: staying awake longer than 12 Hours
+	- per day
+	- test against will
+- +1: not sleeping after a day of hard work or travel
+	-  per work period
+- +1 per encounter: not sleeping after a day of combat
+	- per encounter
+- +x: fatigue damage in excess of vitality from certain weapons
+- x 2: adverse weather conditions
+	- per condition
+
+fatigue is reduced by...
+- Standard rest. Reduces fatigue by half the health condition limit
+- partial rest. Reduces fatigue by a quarter of the character's health condition limit
+# Sustenance hazard
+## health condition
+If using the sustenance hazard, your condition worsens by ...
+* failing to eat during the day
+	- +1 health condition. 
+	- Can only be reversed when receiving sufficient food.
+- failing to drink during the day
+	- +7 health condition. 
+	- Can only be reversed when receiving sufficient water.
+
+## Stage III: Headshot!
+- Damage is increased by 4 when making a head shot
+
+---
