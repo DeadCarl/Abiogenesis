@@ -15,10 +15,10 @@ Tactical movement is divided into two broad paces - normal speed and top speed -
 
 Normal, top value
 
-| Pace         | Value             | Modifiers |
-| ------------ | ----------------- | --------- |
-| Top Speed    | 10 meters + mus/2 | -3 to hit |
-| Normal speed | Top speed/2       | -1 to hit |
+| Pace         | Value             | Modifiers |     |
+| ------------ | ----------------- | --------- | --- |
+| Top Speed    | 10 meters + mus/2 | -3 to hit |     |
+| Normal speed | Top speed/2       | -1 to hit |     |
 
 ## Injured
 ## Crawl
