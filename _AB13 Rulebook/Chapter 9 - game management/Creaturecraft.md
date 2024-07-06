@@ -1,6 +1,7 @@
 # Special Attributes
 
 ## Sapience
+See below
 ### Size
 A squad has the special attribute of size, which represents the number of individual NPCs in the squad. Size has various effects on the squad’s actions, traits, and checks, such as the number of attacks or their morale.
 ### Psionic Rating
