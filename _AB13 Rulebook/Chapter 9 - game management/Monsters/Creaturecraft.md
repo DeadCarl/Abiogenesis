@@ -4,10 +4,12 @@
 Creatures are the new monsters produced by the de kuiper event. They Can be an organism or a construct
 
 # General
-## Getting the tone right
+## Getting the tone right: Threats in Abiogenesis
 Abiogenesis, like STALKER, runs its conflicts differently from many of the other related genres such as horror or survival horror. While the game shares some DNA with the conventions of Horror media past, one of the big differences is how unstoppable things feel. Compared with HP Lovecraft's works, Godzilla, or Alien, Creatures in Abiogenesis should typically be tactically insurmountable. Instead, it's the environment and the continuous lurking danger of another that doesn't let up.
 
 Therefore, remember the adage that "if it bleeds, we can kill it." tyrants and even less, kaiju should be rare as centerpieces - The true boogeyman of the setting should be the looming potential of the environment itself to devour society. Instead, place emphasis on threats and elites as the typical antagonists. 
+
+Remember, in the grand scheme of things, the proportion of critters to tyrants are relative to the band's conventional capability. The Xenomorph of Alien fame is classed as a tyrant because the crew was essentially unarmed, while a company of infantry would likely see it as an elite problem, or a threat. A tank may make short work of smaller Kaiju, in which case it is reduced in threat threat as long as the tank is operational.
 ## Kaiju
 ## Tyrant
 Tyrants are a monster type characterized by a seemingly unstoppable durability or relentless pursuit.
