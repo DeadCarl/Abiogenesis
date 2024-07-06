@@ -31,6 +31,9 @@ Subtract the armor value from the total damage value. If the result is zero or l
 # Penetration
 Penetration reduces the effective armor value. Overpenetration adds no additional damage
 
+## "Gunner, HE, Tank"
+Sometimes people just use force instead of penetration to get past armor, even when there should be no chance of penetration. If the damage is 10 times higher than the armor level, its effective penetration is the damage without the ones column.
+
 ~~Penetration: The base Penetration value of any attack made with the weapon. Non-explosive ranged weapons have two Penetration values.  The first is for attacks made at optimum range or closer, and the second is for attacks made past optimum range.  This trait is not listed for explosives - see the explosion rules in Chapter Five for details.~~
 ## Stage III Candidate: Overpenetration
 Penetration in excess of armor reduces the final damage total.
@@ -41,7 +44,7 @@ pen and armor are by values of 10, with fractions.
 
 if the pen equals or exceeds the armor, the round penetrates
 
-if the pen is below the armor by a factor of less than 10, roll 1d10 and add to pen. if pen equals or exceeds armor, the round penetrates.
+if the pen is below the armor by a factor of less than 10, roll 1d10 and add to pen. if pen equals or exceeds armor, the round penetrates. If the Penetration value is below this value, penetration fails.
 
 ~~add margin of success to pen value~~
 

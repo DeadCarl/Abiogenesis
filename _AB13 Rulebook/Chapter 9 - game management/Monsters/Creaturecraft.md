@@ -1,4 +1,9 @@
-# Special Attributes
+# traits 
+## impervious
+If a penetrant has a lower value than armor, Roll 1d5 to determine the chance to pen instead of 1d10.
+
+
+# capabilities
 
 ## Sapience
 See below
@@ -19,7 +24,7 @@ Creatures are the new monsters produced by the de kuiper event. They Can be an o
 ## Tyrant
 Tyrants are a monster type characterized by a seemingly unstoppable durability or relentless pursuit.
 
-Typically, tyrant types have a high coverage of effective small arms resistance - ordinary wounds just don't hurt them - and require light weapons or greater to engage conventionally.
+Typically, tyrant types have a high coverage of effective small arms resistance - ordinary wounds just don't hurt them - and require light weapons or greater to engage conventionally. An armor value of 10 or higher is a good place to start for fear country campaigns, along with a high potential for mayhem and the endurance to constantly chase targets. High health or regeneration may also substitute for resistance, though this isn't necessary if the target can't be hurt in the first place. 
 
 Sidenote: The stuff of slasher horror movies, the tyrant takes its name from the bioweapons of resident evil. Examples include mr x, the thing, leatherface from texas chainsaw massacre, and so on.
 
