@@ -369,9 +369,8 @@ Intelligent NPC life possess a set of key skill ratings that define their role. 
 Most human life has an attribute rating of 2L. Nonhuman intelligent life may possess unique attribute ratings like unintelligent life.
 
 ---
-## Sapience and Intelligence
+## Sapience and Intelligence sources
 
-- [ ] Search dorm for book on soviet capabilities, find quotient system
 
 https://honorverse.fandom.com/wiki/Sentience_scale
 https://scifi.stackexchange.com/questions/181787/where-did-the-term-sophont-originate
