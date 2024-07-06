@@ -4,6 +4,10 @@
 Creatures are the new monsters produced by the de kuiper event. They Can be an organism or a construct
 
 # General
+## Getting the tone right
+Abiogenesis, like STALKER, runs its conflicts differently from many of the other related genres such as horror or survival horror. While the game shares some DNA with the conventions of Horror media past, one of the big differences is how unstoppable things feel. Compared with HP Lovecraft's works, Godzilla, or Alien, Creatures in Abiogenesis should typically be tactically insurmountable. Instead, it's the environment and the continuous lurking danger of another that doesn't let up.
+
+Therefore, tyrants and even less, kaiju should be rare centerpieces that are significant story elements themselves - The true boogeyman of the setting should be the looming potential of the environment itself to devour society. Instead, place emphasis on threats and elites as the usual antagonists.
 ## Kaiju
 ## Tyrant
 Tyrants are a monster type characterized by a seemingly unstoppable durability or relentless pursuit.
@@ -11,12 +15,16 @@ Tyrants are a monster type characterized by a seemingly unstoppable durability o
 Typically, tyrant types have a high coverage of effective small arms resistance - ordinary wounds just don't hurt them - and require light weapons or greater to engage conventionally. An armor value of 10 or higher is a good place to start for fear country campaigns, along with a high potential for mayhem and the endurance to constantly chase targets. High health or regeneration may also substitute for resistance, though this isn't necessary if the target can't be hurt in the first place. 
 
 Sidenote: The stuff of slasher horror movies, the tyrant takes its name from the bioweapons of resident evil. Examples include mr x, the thing, leatherface from texas chainsaw massacre, and so on.
-
+# Elite
+# Threat
 ## Critter
 
-## Mutant
+## mutant
+A special type
+## De novo
+A special type
 ## Designer creature
-Designer creatures are a type of monster that are the product of an intelligent designer for a special purpose
+A special type, Designer creatures are a type of monster that are the product of an intelligent designer for a special purpose
 
 Designer creatures are characterized by high specialization and hardcoded directives to do the task they were made for. 
 
