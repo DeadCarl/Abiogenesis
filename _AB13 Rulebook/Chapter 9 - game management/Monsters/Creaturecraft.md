@@ -1,9 +1,4 @@
-
-# Casting creature roles
-## creatures
-Creatures are the new monsters produced by the de kuiper event. They Can be an organism or a construct
-
-# General
+# Introduction
 ## Getting the tone right: Threats in Abiogenesis
 Abiogenesis, like STALKER, runs its conflicts differently from many of the other related genres such as horror or survival horror. While the game shares some DNA with the conventions of Horror media past, one of the big differences is how unstoppable things feel. Compared with HP Lovecraft's works, Godzilla, or Alien, Creatures in Abiogenesis should typically only be insurmountable with good tactics. Instead, it's the environment and the continuous lurking danger of another that doesn't let up that creates the relentlessness typified in horror.
 
@@ -15,7 +10,9 @@ Remember, in the grand scheme of things, the proportion of critters to tyrants a
 Outside of an individual story, an astute reader might realize that the line between a common threat and a special threat is fuzzy. For example, tremors and the xfiles contain catastrophic threats to humanity, yet they may be manageable with enough : in tremors case its the application of good thinking and access to firepower, while in the xfiles there are actors in the US government trying to take control.
 
 Another example is to look at XCOM's progression. In the beginning, there are threats which the team has very little practical chance to survive against except by overwhelming, fleeing, or incredibly good strategy, but by the endgame, the player's research becomes makes a veteran trooper practically their equal.
-
+# creature roles
+## creatures
+Creatures are the new monsters produced by the de kuiper event. They Can be an organism or a construct
 ## Kaiju
 ## Tyrant
 Tyrants are a monster type characterized by a seemingly unstoppable durability or relentless pursuit.
@@ -50,39 +47,42 @@ Sidenote: Examples are the terminator series, the engineers from halo, and the t
 - support
 
 # by class
-Mob
+- Mob
 
-Caster
+- Caster
 
-Boss
+- Boss
 
-Obstacle
+- Obstacle
 
-Rat
+- Rat
 A small, weak, and basic enemy.
+
 The Rat is the weakest, most basic enemy in the FPS genre, usually about the size of a house cat. Sometimes, they have projectiles, sometimes they crawl at you and attempt to melee, and sometimes they explode when they attack, but the basic idea is the same. Typically, they die in a couple shots from the basic pistol, but are fairly common in the early levels and/or interfere with your ability to deal with other enemies
 
-disruptor
+- disruptor
 
-Soldier - fighter
+- Soldier - fighter
 
-Elite
+- Elite
 
-Heavy
+- Heavy
 
-Lightning bruiser 
+- Lightning bruiser 
 
-Shield 
+- Shield 
 
-Sniper
+- Sniper
 
-Trigger
+- Trigger
 
 An enemy that must be treated with care otherwise something bad will happen.  
+
 The Trigger is a type of Zombie or Soldier that will, if treated the wrong way, become a much greater threat to the player.
 
-Ninja
+- Ninja
 An enemy that is fast, stealthy, or agile.
+
 In many ways, the Ninja is the opposite of the Heavy. Instead of being much stronger than the basic Mook, he's much faster - or she is. If there's a female mook, it's often the Ninja. The Ninja has very high movement speed, and is usually also very agile, having moves not available to standard Mooks such as being able to climb walls or make two-story jumps to move up to higher platforms. In extreme cases they can outright teleport. Ninjas usually prefer melee attacks, or are at least limited to light weapons such as pistols or submachine guns. They're often equipped with some form of cloaking device as well. Surprisingly, the Ninja isn't really a Fragile Speedster, and can usually survive at least as much damage as a standard Soldier Mook.
 # Gameplay
 
@@ -104,7 +104,6 @@ Primary concern: most creatures have limited access to long range fires. How do 
 	- artifacts
 - initiative
 - Different victory conditions
-- Overwhelming Lanchester's law (# melee monsters = # ranged party ^2)
 - capturing, manipulating human tech
  - Thrown weapons (weak melee)
  
@@ -112,7 +111,7 @@ Primary concern: most creatures have limited access to long range fires. How do 
  - Toughness
  - speed
  - Flyer
- - Combat Mass - the melee creatures need outnumber the enemy force by the square of their numbers
+- Overwhelming Lanchester's law (# melee monsters = # ranged party ^2)
  - extreme performance 
 
 
@@ -139,8 +138,8 @@ Primary concern: most creatures have limited access to long range fires. How do 
 - chemistry
 
 ## examples
- Alien
- Starship troopers
+ - Alien
+ - Starship troopers
 
 most monster media doesn't usually have ranged units
 
