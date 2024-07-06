@@ -5,7 +5,7 @@ Creatures are the new monsters produced by the de kuiper event. They Can be an o
 
 # General
 ## Getting the tone right: Threats in Abiogenesis
-Abiogenesis, like STALKER, runs its conflicts differently from many of the other related genres such as horror or survival horror. While the game shares some DNA with the conventions of Horror media past, one of the big differences is how unstoppable things feel. Compared with HP Lovecraft's works, Godzilla, or Alien, Creatures in Abiogenesis should typically be tactically insurmountable. Instead, it's the environment and the continuous lurking danger of another that doesn't let up.
+Abiogenesis, like STALKER, runs its conflicts differently from many of the other related genres such as horror or survival horror. While the game shares some DNA with the conventions of Horror media past, one of the big differences is how unstoppable things feel. Compared with HP Lovecraft's works, Godzilla, or Alien, Creatures in Abiogenesis should typically only be insurmountable with good tactics. Instead, it's the environment and the continuous lurking danger of another that doesn't let up that creates the relentlessness typified in horror.
 
 Therefore, remember the adage that "if it bleeds, we can kill it." tyrants and even less, kaiju should be rare as centerpieces - The true boogeyman of the setting should be the looming potential of the environment itself to devour society. Instead, place emphasis on threats and elites as the typical antagonists. 
 
