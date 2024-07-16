@@ -58,7 +58,7 @@ Successful tests favor the roller, unsuccessful tests favor the opponent
 
 # Gameplay loop
 
-Initial situation
+1. Initial situation
 	a. enemy is known
 	b. enemy unknown
 	c. mobile
@@ -78,7 +78,7 @@ Regions do not have to be rectangles
 
 All terrain pieces must be touching at least at 1 point? Any gaps are to be determined as positive or negative space based on the GM's ruling until a group decides to uncover another terrain piece.
 
-## Initial player phase, field shaped
+## Initial player phase, shaping field
 This is known as the shaping phase because if the teams intend to fight, they will attempt to shape the battlefield to suit them, such as through an ambush or by acquiring higher ground prior to the opponent.
 
 1. Groups determine their objective
@@ -103,7 +103,7 @@ Can a recon roll be split so heterogenous terrain can be laid? (Ie barn house an
 How is a moving position handled? Is the path a level one feature?
 What happens if a player narrates a preplanned decision
 
-## Initial phase, no shaping
+## Initial phase, no player shaping
 If the two groups do not shape the battle prior to engaging (aka: complete surprise), the GM rolls for luck for each side (2d20L!6), then generates the terrain and  based on the fortune of each group. The groups have no decision in how this terrain nor their assembly is set up beyond what they were immediately doing prior to the interruption.
 ## Subsequent phases
 
