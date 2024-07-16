@@ -66,7 +66,7 @@ A layer 0 test determines who places the terrain, what its general shape looks l
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
 
-# Procedures
+# Gameplay loop
 
 Initial situation
 	a. enemy is known
@@ -78,7 +78,7 @@ Is entirely determined by the gm, but in general consists of any number of regio
 
 For example, a map with 4 regions of 25 meters each in a line would be considered large scale
 
-Regions consist of either positive, negative, or 
+Regions consist of either positive, negative, or some fraction of the two spaces
 
 Regions do not have to be rectangles
 ## Initial phase, GM 
