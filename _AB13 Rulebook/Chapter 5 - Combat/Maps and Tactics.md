@@ -1,13 +1,3 @@
-https://en.wikipedia.org/wiki/Spatial_scale
-https://en.wikipedia.org/wiki/Scale_(map)
-https://en.wikipedia.org/wiki/Level_of_measurement
-
-Level of detail
-
-[Symbols](https://en.wikipedia.org/wiki/Map_symbol) versus scale
-
----
-
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
@@ -134,3 +124,13 @@ On success, they may place one piece of terrain with a combat value equal to the
 This piece of cover stays for the duration of the fight
 
 ## paths
+
+# Sources
+https://en.wikipedia.org/wiki/Spatial_scale
+https://en.wikipedia.org/wiki/Scale_(map)
+https://en.wikipedia.org/wiki/Level_of_measurement
+
+Level of detail
+
+[Symbols](https://en.wikipedia.org/wiki/Map_symbol) versus scale
+
