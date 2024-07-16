@@ -37,11 +37,10 @@ Microfeatures can always be added to a map as long as it holds enough combat val
 Layer zero is decided by who can exploit their tactical initiative. If neither have tactical initiative then the roll is random. If a group has tactical initiative but fails the tactics roll they cannot exploit it well or at all, and if they succeed they get to roughly shape the layer 0 region.
 
 Layer 0 elements
-
-Spawns
-Regions structure on board
-Number of initial regions
-Number of additional regions?
+- Spawns
+- Regions structure on board
+- Number of initial regions
+- Number of additional regions?
 
 
 # Layer -1
@@ -93,15 +92,15 @@ This is known as the shaping phase because if the teams intend to fight, they wi
 4. on failure, who decides to put the terrain down? The commander choses the initial spawn
 
 ### Questions
-What about minimum initial range or getting initial shots on? 
-What about holding terrain the enemy can't take
-What is the size of a terrain piece
-How does one handle split forces
-How do we determine the shape of a terrain space
-How does an actor move through a terrain space
-Can a recon roll be split so heterogenous terrain can be laid? (Ie barn house and field)
-How is a moving position handled? Is the path a level one feature?
-What happens if a player narrates a preplanned decision
+- What about minimum initial range or getting initial shots on? 
+- What about holding terrain the enemy can't take
+- What is the size of a terrain piece
+- How does one handle split forces
+- How do we determine the shape of a terrain space
+- How does an actor move through a terrain space
+- Can a recon roll be split so heterogenous terrain can be laid? (Ie barn house and field)
+- How is a moving position handled? Is the path a level one feature?
+- What happens if a player narrates a preplanned decision
 
 ## Initial phase, no player shaping
 If the two groups do not shape the battle prior to engaging (aka: complete surprise), the GM rolls for luck for each side (2d20L!6), then generates the terrain and  based on the fortune of each group. The groups have no decision in how this terrain nor their assembly is set up beyond what they were immediately doing prior to the interruption.
