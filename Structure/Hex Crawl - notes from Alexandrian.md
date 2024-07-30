@@ -730,7 +730,7 @@ River
 
 Landmark chain
 
-Supernatural (portals, fairy paths, etc.)
+Supernatural (portals, fairy peaths, etc.)
 
 Stairs/Shafts
 

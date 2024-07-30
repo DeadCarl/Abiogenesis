@@ -127,3 +127,7 @@ Additional goals:
 Another definition for success would be to define the thematic tone through a concept delivered through text, visuals, and sound (like a title sequence).
 
 Since there is no 'best' settled upon theme, we will instead refer to these as the in development examples, not final release
+
+# sources
+
+https://youtu.be/hzPZznSmbao?si=LzKaT95T4GPTuriz

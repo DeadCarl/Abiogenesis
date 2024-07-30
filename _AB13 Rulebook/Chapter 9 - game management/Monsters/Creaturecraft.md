@@ -112,7 +112,7 @@ Primary concern: most creatures have limited access to long range fires. How do 
  - speed
  - Flyer
 - Overwhelming Lanchester's law (# melee monsters = # ranged party ^2)
- - extreme performance 
+ - extreme performance
 
 
 ## Projectiles

@@ -9,6 +9,7 @@ todo
  - [x] Cold Warriors ✅ 2024-06-29
  - [ ] Undercover arms
  - [ ] Czech your Engine
+# Ammunition
 # Pistols
 
 |                         |                |      |      |        |        |     |       |     |      |        |       |        |        |
