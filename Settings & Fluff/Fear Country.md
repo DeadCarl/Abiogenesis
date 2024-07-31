@@ -26,9 +26,18 @@ Source: https://en.wikipedia.org/wiki/Physiographic_regions_of_the_United_States
 ## By residency
 - US Residents
 - US Residents, internally displaced
-- refugees, immigrants
-- foreign nationals
+	- Californians
+	- Nevadans
+	- 
 - Off-grids
+- refugees, immigrants
+	- Central/South American
+	- Pacific
+	- Asian
+- foreign nationals
+	- Everyone
+	- See weed grow ops
+	- Mongolians
 
 ## By Politics
 - North American
