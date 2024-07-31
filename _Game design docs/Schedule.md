@@ -14,7 +14,7 @@
 - Encounter management
 
 # Rallypoint Bravo
-## Vehicle rework
+## Special hazards
 
 # Rallypoint Charlie
 ## special rules
@@ -31,8 +31,7 @@
 ## GM Bookkeeping tools, loot and logistics, living and upkeep
 
 # Rallypoint Foxtrox
-## Special hazards
-
+## Vehicle rework
 # Rendezvous Aleph
 ## Group meeting for monster design
 
