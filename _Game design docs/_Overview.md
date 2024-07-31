@@ -93,19 +93,6 @@ constant stress from deficiency needs
 - Lethality can be balanced for immediate consequence (lethal) or deep story (less lethal)
 ## Party requirements
 - the party needs a hideout
-# Subsettings
-## Fear Country - demons and desperadoes
-  
-you're hustling out in Wild West just north of the remains of California, earning a living amongst the poor prospects and the things you lock your doors for.
-
-Like Black Lagoon, basically.
-## The Zone - Expeditions for forbidden riches and settling dark scores
-
-
-## Case File - Emergency Investigation and Response
-
-## Occult Grind - Hustles and Horror in Urban America
-## Dark State - A tour of duty to hold back deep waters
 # Definitions for success
 For abio to be successful, we need to create a tabletop tactical adventure that can be described as stalker meets half life.
 

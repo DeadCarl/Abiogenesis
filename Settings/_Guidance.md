@@ -1,0 +1,1 @@
+https://www.shardstone.net/journal/writing-rpg-sourcebook
