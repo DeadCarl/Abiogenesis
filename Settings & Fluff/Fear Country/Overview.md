@@ -1,5 +1,3 @@
-![](https://youtu.be/uVpRllRbnxk?si=3ukvhca7qm4HwM64)
-![](https://youtu.be/TRJ_s2G76Hg?si=kSAjKt0YL9CU-slu)
 # Overview
 The setting for outlaws and stalkers
 
@@ -15,3 +13,6 @@ Like Black Lagoon, basically.
 # Through-line
 
 Can what happened in California happen elsewhere? Are we doomed?
+# Media
+![](https://youtu.be/uVpRllRbnxk?si=3ukvhca7qm4HwM64)
+![](https://youtu.be/TRJ_s2G76Hg?si=kSAjKt0YL9CU-slu)
