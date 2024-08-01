@@ -11,7 +11,7 @@ Like Black Lagoon, basically.
 
 # Through-line
 
-What destroyed California, and how do we prevent that from happening?
+Can what happened in California happen elsewhere? Are we doomed?
 # Physical Geography
 ## Physiographic regions
 - https://en.wikipedia.org/wiki/Pacific_Border_province
