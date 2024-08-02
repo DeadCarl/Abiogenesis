@@ -1,5 +1,19 @@
 # Refugee encampments
 
+"Law? Don't exist. Order? What good does it bring? Justice? Never heard of it." a refugee on the state of affairs. The majority of the refugees encampments are hastily assembled by the first wave of frantic men with their cars. Nobody expected it to grow, and nobody expected to pay for accomodation. As a ressult of this, most refugee encampments are now in a state of "controllable decay". Thousands of desparate souls are squashed into the encampments, the lack of hygenics has introduced many disease that would be unheard of to the refugees. People are dying to Cholera, Hepatitis E, and many other disease long thought belonging to the third world. Overcrowded condition also gave way to wanton violence, a study showed that about 50% of gang violence inside such encampments are not aimed to achieve any particular goals but rather to vent out frustrations. 
+
+# Social structure: 
+
+the vast majority of the power belongs to various "clans". However, the clans are not exclusively based on family ties like in middle east or Caucasus. Clans can be founded on various collective experiences. Pre-de-Kuiper gang members tend to form the core of most clans. Usually the clans seeks to gain a monopoly of violence inside their area of operations, with the power given by violence they will then expand their reach to economic objectives. Such criminal clans will usually become part of a drug or human trafficking and distribution network. However, the common conception of clans as "gangbangers" is a dangerous mischaracterization. Many clans were formed by ordinary citizens who just want to protect what they held dear. Unfortunately the power that comes with masses and violence is just too alluring. Prospective clans will try to leverage their influence on encampments for sociopolitical advantages. Many clans become political machines in the end. In some cases they will take advantage of policies and have their candidates in public offices. Certain political clans like "Black Power Family" are radicalized and could eventually engage in terrorism. 
+
+The Oregon state generally do not have the resource to effectively manage the situation inside encampments. Usually it is up to federal government to provide basic food and amenities. Unfortunately saying this means the encampments are de facto lawless zones. Despite this, there are efforts to police the encampments through "presence patrols" and other methods. Increasingly, the officers view the encampments as nests of crime and them as exterminators. More and more, they become similar to the "violent clans" they imagined. 
+
+Some encampments are more modern and received better amenities including plumbing and electricity. Situations in these camps are typically better, but improved living condition inevitably attracts more refugees, with often results in the encampments operating far beyond theoretical limits. This can often result in disasters. 
+
+The majority of refugees are jobless, homeless and sometimes moraless. The tension with locals are escalating. "Calis" is believed to be "ruthless gangbangers who will loot your home, steal your job and replace you". In numerous towns and cities, men cling to their identities and fight the "outsiders".
+
+To cut cost, the state government hands many encampments to contractors, usually such arrangements are not as dystopian as some depictions portrays. But in some cases, the contractors will often find innovative ways to cut costs. In one notorious incident, refugees are used as literal slave labors to expand the encampments. 
+
 # Population
 
-A collection of Neighborhood watch programs due to limited EMS/DOD/FEMA resources
+A collection of Neighborhood watch programs due to limited EMS/DOD/FEMA resources. Some of them are actually decently managed, while others are subject to numerous scandals. "Incompetency is a feature, not a bug. " And in some cases, an unusally competent neighborhood watch may have ulterior motives. 
