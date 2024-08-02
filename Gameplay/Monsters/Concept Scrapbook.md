@@ -12,11 +12,15 @@ Ranchhand wants to communicate with its own species
 
 It needs a massive radio receiver to do this
 
+??? Is that really a good idea? I think a regular humanoid birdie is interesting enough (can see them doing cargo cult shit to human technology)
+("the cult of technology" has players fighting against ranchhands with guns and a stolen tank painted with religious symbols) 
 ---
 
 designed, a spliced creature
-fibrous muscles like a rope inside the exoskeleton w/ a hollow core in the middle (or bone)
+fibrous muscles like a rope inside the exoskeleton w/ a hollow core in the middle (or bone) 
+**(More elaboraton needed, what does it do?)**
 white body
+
 2 body plans smushed together
  * upper body is segmented - "post insectoid"
  * lower is more mamallian
@@ -27,7 +31,7 @@ small eyes
 tribal
 4 foot tall?
 eusocial, can talk about as much as a bird
-
+**(maybe a kind of parasite? Takes over the upper body)**
 ---
 
 
@@ -42,12 +46,11 @@ An approximation of a human
 
 
 # Massive critters
-
+(preferably an equivalent of tank, but I still don't know how that's gonna stand against an armored brigade)
 metal nanodesign by dna
 
 # gun critters
-
-
+**Maybe Ranchhands with guns? With their human-like intellect a lucky ranchhand might become the high priest of the "cult of thunder stick"**
 # Jet engine
 
 combine with road slug?
@@ -55,6 +58,8 @@ combine with road slug?
 appearance of a whale shark
 
 Creature that can spew afterburner tier fire at a target for a certain amount of time
+
+**(Mein Gott)**
 ## Resources
 
 prefers hydrocarbons
@@ -77,7 +82,7 @@ This profile extends in line from the outboard wing-mounted engines to **more t
 (185.2) kph winds in a 50 meter jet - [TCWS 5](https://en.wikipedia.org/wiki/Tropical_Cyclone_Wind_Signals)
 
 at 25 meters, the jet is hot enough to do burning damage
-
+**a flame tank? Might need to beef up the range to 100 meter. Make a lot of noise so it really feels like a proper flame tank**
 leaky black tar mouth when not spewing afterburn
 
 ### Formula to move something with wind
@@ -119,16 +124,21 @@ Radix's forager has the ability to cook somebody with microwaves at an appreciab
 It also has the ability to project a thunderbolt at the target to about 100 meters
 
 the creature is relatively slow, relying on its projectile capabilities
+
+**some factions might have special detectors for that thing** (probably private companies)
+
 # lines
 terrestrial man o war biped
 role: ambush special - Prefers dark places
 can't speak, but the stings are the worst on earth - everyone screams when touched 
 "you feel wriggling skin brush against your cheek"
+**(maybe mind control where it manipulates victims like puppets? Or simply ambush predator that moves to dark areas top)**
 
 # Rat
 ![[rat-brick.gif]]
 # Cat Creature
 ![lp|right|200](https://assets.rbl.ms/9570668/origin.jpg)
+**too cute for school**
 
 
 # Fox creature
@@ -164,7 +174,7 @@ Skitterghost
 
 Gargoyles 
 Black dogs
-
+**What do you mean?**
 Hellcats (Polecats)
 
 Dust devil birds where a group of them can cause a small tornado when spooked ?
@@ -182,6 +192,9 @@ Glowing snow .. microscopic creatures that glow when moving
 https://cdn.discordapp.com/attachments/528596617641852928/1178118570425733233/trim.8E32D9FD-DA57-4C9B-8D4E-E68807BE1C7E.mov?ex=6574fb6b&is=6562866b&hm=3ab0ba9bbabc7315101aa876308c1ddf6b872c9541e86d96b1e02fba3c909575&
 
 Car burr .. like a tumble weed that can latch into cars and damage them
+**Good idea I think, a specialist anti-tank thing**
+
+Maybe some sort of Hermit crab that uses tanks as shelter? (can control the cannon somehow)
 
 Venus mind trap .. obj that scatters people's thoughts in a web of hallucinations and illucidity. Groups can be caught on some of the stronger ones, other animals can be caught instead.
 
@@ -190,6 +203,7 @@ Bloodsucker
 
 Grotesque
   Big buff mutant? 
+  **(We need some sort of Zombie)**
 
 Radiant
   Flashes like a giant epilepsy inducing flash with a certain reflex from flexing its joints
@@ -209,8 +223,9 @@ Spring leg
 Radio Ray
   Floating mothlike ray that is attracted to and smothers radio signals
   Too many can be highly dangerous as they will thrash through people to get to the source, injuring them on the way
-  Problem is how do they get attracted to radio receivers
+  Problem is how do they get attracted to radio receivers **(yeah, that's a problem, maybe radio wave is how they locate each other and identify suitable mates?)**
 
+  
 
 
 
