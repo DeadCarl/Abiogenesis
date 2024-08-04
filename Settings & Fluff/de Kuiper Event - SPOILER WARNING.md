@@ -1,3 +1,4 @@
+The scale of the disaster was only consistent in one factor: nothing added up. People died from no apparent cause, patches of people suffered acute radiation burns, and electronics acted almost of their own accord. What was more disturbing however, were the tales of land held in the air with no apparent source, cyclopean structures appearing as if by magic, creatures lurking the night, and disturbing afflictions that struck people down. It was as though a cryptic nightmare decided what was more re
 # "Wow"
 
 On August 15, 1977, Ohio State University's Big Ear radio telescope discovered a strong signal coming from the direction of Sagittarius that bore the theorized hallmarks of extraterrestrial origins. Lasting for 72 seconds, it proved an incredible, although the limits of technology proved unable to find the exact direction, nor did the message repeat.
