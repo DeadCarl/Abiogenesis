@@ -1,17 +1,20 @@
-The scale of the disaster was only consistent in one factor: nothing added up. People died from no apparent cause, patches of people suffered acute radiation burns, and electronics acted almost of their own accord. What was more disturbing however, were the tales of land held in the air with no apparent source, cyclopean structures appearing as if by magic, creatures lurking the night, and disturbing afflictions that struck people down. It was as though a cryptic nightmare decided what was more re
 # "Wow"
 
-On August 15, 1977, Ohio State University's Big Ear radio telescope discovered a strong signal coming from the direction of Sagittarius that bore the theorized hallmarks of extraterrestrial origins. Lasting for 72 seconds, it proved an incredible, although the limits of technology proved unable to find the exact direction, nor did the message repeat.
+On August 15, 1977, the Big Ear telescope at the Ohio State University Radio Observatory detected a unique signal coming from the direction of Sagittarius. Impressively large and carrying the expected hallmarks of extraterrestrial communication, the Wow! signal was a phenomenal discovery that set the community for the search for extraterrestrial life into a frothing excitement. Intense efforts were directed at determining the nature of the signal as scientists hoped the signal would reoccur.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg)
 
-In January 2016, Yuri Milner's Breakthrough Initiatives program activated the Breakthrough Listen project to contribute to the Search for Extraterrestrial Life. Despite misgivings of the Wow signal's efficacy, it was chosen as a high priority candidate. Months into Breakthrough Listen's service life, scientists once again received a signal of distant origin with a power off the scale for anything short of a star from the direction of Sagittarius. 
+In January 2016, Yuri Milner's Breakthrough Initiatives program initiated the Breakthrough Listen project, a $100 million commitment to search 1,000,000 regions for artificial, extraterrestrial signals. In spite of 30 years of null activity, the part of the Constellation Sagittarius that the Wow! signal originated from was again chosen as a high priority candidate.
 
-However, while the existence of this new Wow signal became public very quickly, However, further study of the signal revealed that the signal, as extraordinary as it was, held a secret: Yuri's team discovered that the Wow Signal was an intricate cipher of an unknown nature. before Breakthrough Listen could report on what was to be called the Wow Cipher, the US Government Classified all references to its true nature. The Wow Cipher was to remain a conspiratorial rumor for years, fuelled by third parties that had inklings the find was more valuable than the US had been letting on.
+Months into Breakthrough Listen's service life, it came again; a radio signal accompanied by something much grander, possessing an off the charts intensity than any prior signal detected in the history of SETI, from Wow!'s Direction. The existence of this new Wow signal became public news that morning, taking the scientific community by storm. 
+
+Breakthrough Listen's science team immediately set to work on studying the nature of both signals, to which it was discovered that the stronger of the two signals held a secret: Not only was the second Wow of obviously coherent origin, algorithmic analysis clearly indicated a high probability that the signal was an intricate cipher of an unknown type. 
+
+These Researchers immediately set out to publish their most important discovery to date as soon as possible, but were quickly stopped by a personal visit from the US Department of Energy, who advised them that their discovery was now a state secret protected by federal law. The discovery of the Wow! Cipher became a rumored conspiracy for years, fueled by the unusual silence coming from Breakthrough Listen just after their victory and the occasional leak from Federal agencies about a cryptographic moonshot project.
 
 Eventually, the United States learned that the People's Republic of China had also learned of the fact, as well as multiple other State entities.
 
-Deciphering the Wow Signal was quickly found to be an intensely complicated task, which spurred an explosion of big data technologies all squarely aimed at this cosmic enigma of a signal.
+Deciphering the Wow! cipher was quickly found to be an intensely complicated task, which helped spur an explosion of big data technologies for the purpose of breaking the cosmic enigma from Sagittarius.
 # Djinn
 
 In Silicon valley, Tech billionaires figured out the reality of the Wow Cipher and began to place their money in topics like artificial intelligence, quantum computing, and bioprocessors, all in a bid to drive down the computational cost of cracking the Wow Cipher.
