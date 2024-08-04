@@ -14,17 +14,14 @@ These Researchers immediately set out to publish their most important discovery 
 
 Eventually, the United States learned that the People's Republic of China had also learned of the fact, as well as multiple other State entities.
 
-Deciphering the Wow! cipher was quickly found to be an intensely complicated task, which helped spur an explosion of big data technologies for the purpose of breaking the cosmic enigma from Sagittarius.
+Deciphering the Wow! cipher was quickly found to be an intensely complicated task, which helped spur a Federally supported explosion of big data technologies for the purpose of breaking the cosmic enigma from Sagittarius.
 # Djinn
 
-In Silicon valley, Tech billionaires figured out the reality of the Wow Cipher and began to place their money in topics like artificial intelligence, quantum computing, and bioprocessors, all in a bid to drive down the computational cost of cracking the Wow Cipher.
+In Silicon valley, word got out amongst tech billionaires of the Wow Cipher, which began a shadow campaign in topics like next generation algorithms, data centers, artificial intelligence, quantum computing, and bioprocessors, all vying to be the first to crack it with an efficient use of resources. This culminated in 202x, when a exascale supercomputer named Djinn was brought online just outside of San Francisco. By using energy efficient bioprocessors to emulate quantum processing. Djinn found the Wow! Cipher possessed a header, the metadata necessary to read the cipher, which meant that it was certain that the Wow! Cipher was created by intelligent life beyond humanity. 
 
-In 2023, a multibillion dollar supercomputer named Djinn was brought online in [Silicon Valley]. Composed of an immense network of bioprocessors to achieve emulated quantum processing, Djinn eventually found the Wow Cipher had a header.
-
-This was one of the greatest achievements in human history since the human genome project.
 # Der Erlkönig
 
-During the celebration, nobody noticed that Djinn did something extraordinary. Despite the extensive OPSEC and the networked air gap to avoid State awareness, Djinn somehow found a way to call the outside world. Almost on its own volition, it began to exfiltrate information to something on the outside using a means still not known to this day. For months, this communication was unobserved by staff until technical issues began to crop up that prevented them from asserting total control over their own prized computer.
+During the secret celebration, nobody noticed that Djinn did something extraordinary. Despite the extensive OPSEC and the networked air gap to avoid State awareness, Djinn somehow found a way to call the outside world. Almost on its own volition, it began to exfiltrate information to something on the outside using a means still not known to this day. For months, this communication was unobserved by staff until technical issues began to crop up that prevented them from asserting total control over their own prized computer.
 
 Meeting after meeting soon came to the same conclusion: some form of malware or malactor had somehow infected Djinn. This malware was soon dubbed by the chief security officer as der Erlkonig, after the phantom elf king of Goerte's poetry.
 
