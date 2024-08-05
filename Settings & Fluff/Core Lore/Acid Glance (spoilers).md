@@ -1,12 +1,11 @@
-### Chatlog Summary:
+### chatlogs summary:
 
-- **Theme and Structure:**
-  - **Objective Framework**: Discussing how objectives in storytelling can be categorized into immediate, medium, and long-term goals. Reference to Stanislavski’s method for integrating objectives into a story.
-  - **Superobjective**: The central aim is to stop Erlkonig, a central threat in the story.
-
-- **Story Development:**
-  - **Experimental Process**: Consider narrowing focus by defining what should not be included (e.g., avoiding highly intellectual elements, California as a setting).
-  - **Setting**: Decided against a California setting due to its post-apocalyptic nature (e.g., infrastructure collapse).
+- **Development Process:**
+  - **Objective Framework**: we discussed how objectives in storytelling can be categorized into immediate, medium, and long-term goals. Reference to Stanislavski’s method for integrating objectives into a story.
+  - **Superobjective**: the ruling, long term goal or reason for the tasks a character does - aka a character's strategy to their tactics.
+	  - The central aim is to understand and stop Erlkonig
+  - **a experimental Process**: we Considered narrowing our focus by defining what should not be included in our story (e.g., avoiding highly intellectual elements, California as a setting).
+	  - Decided against a California setting due to its post-apocalyptic nature (e.g., infrastructure collapse).
 
 - **Narrative Ideas:**
   - **Timeline**: Set a few years post-immediate crisis; exploring the aftermath
@@ -18,6 +17,6 @@
 	  - the first ever search for Erlkonig story
 
 - **Summary:**
-  - **Superobjective**: Protect people by stopping Erlkonig.
+  - **Superobjective**: Protect people by understanding Erlkonig.
   - **Objective**: Investigate and contain the contamination of a nuclear power plant.
   - **Story Pitch**: the cyber ghostbusters show up to make an inquiry about an old, poorly maintained nuclear power plant that is now haunted.
