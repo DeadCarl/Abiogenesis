@@ -6,6 +6,17 @@
 ## Initial vertical slice
 - Need creatures to kill
 
+## lore dump
+- Taiwan strait conflict
+- California before de kuiper
+- Cali during de kuiper
+- Cali after de kuiper
+
+## Hot real estate and loot tables
+
+- Setpiece high value locations
+
+
 # Rallypoint Alpha
 ## general mechanics and integration
 - small creature features - falling, speed, etc (may be skipped)
