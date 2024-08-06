@@ -880,31 +880,6 @@ comet passed
 	woman called police to say the man in her house isn't her husband - I killed my husband yesterday
 	
 	
-	
-	
-	"there's a dog in the yard"
-	an abiogenesis story
-	days after the De Kuiper event, reports of a massive, murderous black dog surface that has taken victims near an apartment complex
-	
-	the protagonist eventually finds the lair of an extremely territorial, hungry alien 4 legged beast.
-	
-	shredded cars
-	shed blood and torn bodies
-	disappearing people
-	
-	
-Dog creature
-	an assimilator?
-		stretched out transformation? - with the sinews organs and muscles showing under a frame that's much too large for its mass?
-		like the bear from the movie annihilation
-		
-	Son of Sam type killings
-		appears out of nowhere
-		murders a single person to intimidate locals
-		walks off
-		
-	4 legged sapient?
-	
 
 harassing people to death/out of a place
 
