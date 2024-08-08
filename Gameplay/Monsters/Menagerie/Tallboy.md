@@ -1,5 +1,5 @@
 
 - "Organic Mech"
 - thin legs and arms, fortified torso
- ![[first inspiration tallboy no rights.png]]
+- ![initial inspiration](Assets/Images/first_inspiration_tallboy_no_rights.png)
  - deadly thrower
