@@ -58,8 +58,8 @@ size +0, 6'6"
 ![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
 
 ![](Images/inspiration_ranchhand_1551135677729_no_rights.jpg)
-[Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)
-![Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
+![Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)
+[Blackbird](https://www.youtube.com/watch?v=i7izraterXQ). Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
 # Deprecated
 
 ---
