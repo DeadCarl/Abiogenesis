@@ -54,12 +54,12 @@ size +0, 6'6"
 # Concept design iterations
 
 
-![](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
+![Carnival emperor](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
 image of a mask
 
-![[ranchhand monster_1580891300206.jpg]]
+![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
 
-![[abiogenesis ranchhand monster_1551135677729.jpg]]
+![](Images/inspiration_ranchhand_1551135677729_no_rights.jpg)
 # Deprecated
 ![](https://www.youtube.com/watch?v=i7izraterXQ)
 image of a bird: Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
@@ -123,7 +123,7 @@ size +0, 6'6"
 ![](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
 image of a mask
 
-![[abiogenesis ranchhand monster_1551135677729.jpg]]
+![[inspiration_ranchhand_1551135677729_no_rights.jpg]]
 # Deprecated
 ![](https://www.youtube.com/watch?v=i7izraterXQ)
 image of a bird: Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
