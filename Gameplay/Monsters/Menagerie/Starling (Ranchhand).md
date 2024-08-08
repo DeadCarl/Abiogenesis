@@ -53,9 +53,8 @@ size +0, 6'6"
 	- post-human sapience
 # Concept design iterations
 
-
+![](https://x.com/saintsart_/status/1549499317387493376)
 ![Carnival emperor](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
-image of a mask
 
 ![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
 
