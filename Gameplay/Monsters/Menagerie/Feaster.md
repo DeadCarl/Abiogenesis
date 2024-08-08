@@ -1,1 +1,0 @@
-ambush predator that jumps out of crevices or bodies it is hiding in

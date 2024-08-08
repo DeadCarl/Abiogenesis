@@ -1,6 +1,6 @@
 ![](https://cdnb.artstation.com/p/assets/images/images/023/931/417/large/will-miranda-33333333.jpg?1580797441)
-![[crystal_creature_by_kitsune_aka_cettie_d34s6iy-414w-2x.jpg]]
-![[d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg]]
+![](Images/crystal_creature_by_kitsune_aka_cettie_d34s6iy-414w-2x.jpg)
+![](Images/d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg)
 ## Function
 Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
 ## Lore
@@ -18,10 +18,8 @@ Upon observation, the otherwise disconnected shards appear to flex in sync with 
 
 
 #### Original Inspiration
- <img src="https://i.imgur.com/5fmVjNs.png">
+<img src="https://i.imgur.com/5fmVjNs.png" width="25%">
 
 <a href="https://cdn.vox-cdn.com/thumbor/Yiy6pK8QvKLBtJvNDo6kUJ0dMhI=/0x0:1000x667/1200x800/filters:focal(0x0:1000x667)/cdn.vox-cdn.com/uploads/chorus_image/image/35889652/lionfish-noaa-gov.0.jpg">Lionfish</a>
-
-  
 
  <a href="https://live.staticflickr.com/6225/6333905242_2c74e94312_b.jpg">Hydralisk</a>

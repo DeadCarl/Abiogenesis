@@ -7,8 +7,7 @@ a sniper nest of bee-like entities
 
 I always did want to try and do my own take on the Lekgolo in this game
 
-especially if it is say a hive structure creature, An ambulatory queen bee
-hive combo
+especially if it is say a hive structure creature, An ambulatory queen bee/hive combo
 
 Or maybe not even ambulatory, their hive structures are designed to make those channels
 and then they all just like buzz their wings in the right places to make the pressure channels work

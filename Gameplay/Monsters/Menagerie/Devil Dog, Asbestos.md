@@ -1,6 +1,46 @@
+# Summary
+de novo parasitic infection
+
+explore the idea of using scabies as a basis for a threat in a game, noting their rapid spread, difficulty to eradicate, and ability to latch onto hosts. The challenge is to incorporate an anomalous element to make it engaging, 'beatable' and manageable in gameplay, perhaps avoiding the cliché of zombies. The participants discuss the potential for scabies to be a foundational element for something else, acknowledging that while disturbing concepts can make for compelling stories, they might not always translate well into playable scenarios. 
+
+# Candidate 1: Eels
+ambush predator that jumps out of crevices or bodies it is hiding in
+
+The idea involves a parasitic eel the size of a moray which burrows and hides in its prey or other soft material like sand through the fourth dimension. The burrowing effect would appear to be tiny slits in the victim's body.. The eels would be ambush predators, using the fourth dimension as cover and being visible through shadows spilling over into the third dimension. They could also be killed by a single hit from most firearms. An added twist would be to have the creature hijack the victim's body so they would be alive, but compelled to seek help and thus help spread the eels while being eaten from the inside.
+
+# Candidate 2: Scabies
+
+Sure but it has to be even weirder. DNA warping scabies, survivable plenty of people stay within a safe genetic range, others get that tiny iota of change that makes their brain shit, turns into a range of physiological changes? Brundlefly shit?
+
+Asbestos forces the body's metabolism into overdrive, subsisting on its victims body mass.
+
+Players could be automatically in the safe genetic range, so they have an immunity pass to avoid body horror for the players directly. just have a scar from them being pushed out of the body by the immune system
+
+These scabies are contact mutagenic?
+
+ASBESTOS: BECAUSE THEY LOOK LIKE FIBERS ONCE THEY ACTUALLY MATURE. THE SCABIES LOOKING ONES ARE JUST THE EARLIEST STAGE OF LIFE
+
+Also lets you use one thing for multiple hostiles. certain morphs happen more often for variety
+- lil babbies
+- the big baddies
+- and the meddl goobers
+## Treatment
+
+Add in anti-parasitic cream as a treatment option once found and the clock can be pushed back. Treat the town, clean room them all, fumigate fucking everything.
+
+But it just looks like common scabies up front, takes time for the weird shit to happen raising Fed boi attention
+
+so they start small but can turn into a massive fucking monster problem? It's a fucking X-file right there!
+
+# Devil dog
+
+Devil dogs are canines in the latter stages of Asbestos infection. These creatures are highly malnourished and extremely aggressive due to their anguish, and often experience cognitive or physical decline.
+
+Afflicted dog populations sometimes become stable enough to reproduce in the wild. Pups are subsequently infected upon birth.
+
+---
+old
 # hemorrhagic Mange
-Alternative names: Devil's mange, the Red Madness
-    de novo parasitic infection
 	
 	Cross ebola with mange
 	Zoonotic
@@ -14,11 +54,6 @@ Alternative names: Devil's mange, the Red Madness
 	features
 		double aggression
 ---
-old
-	
-	An often encountered example of Hemorrhagic mange is in wild dogs due to an interesting stability the parasite reaches with its host: the dog may be highly emaciated, but maintains enough capability to reproduce: the pups are then infected with hemorrhagic mange around birth.
-
-	Life for devil dogs is short, hungry and agonizing, but the afflicted population has become stable enough to remain endemic.
 
 # Sources
 # Old version
