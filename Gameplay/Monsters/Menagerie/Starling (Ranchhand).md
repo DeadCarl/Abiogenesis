@@ -58,9 +58,9 @@ size +0, 6'6"
 ![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
 
 ![](Images/inspiration_ranchhand_1551135677729_no_rights.jpg)
+[Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)
+![Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
 # Deprecated
-![](https://www.youtube.com/watch?v=i7izraterXQ)
-image of a bird: Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
 
 ---
 old
@@ -115,13 +115,3 @@ size +0, 6'6"
 	- bipedal
 	- craft tool user
 	- post-human sapience
-# Concept design iterations
-
-
-![](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
-image of a mask
-
-![[inspiration_ranchhand_1551135677729_no_rights.jpg]]
-# Deprecated
-![](https://www.youtube.com/watch?v=i7izraterXQ)
-image of a bird: Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system
