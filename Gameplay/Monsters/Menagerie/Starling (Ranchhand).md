@@ -1,5 +1,6 @@
 
-![[abio ranchhand 178-080 harrison-magby-forrestbird1-bw_ArtStation - Forest Creature, Harrison Magby.jpg]]
+![first image of ranchhand](Assets/Images/ranchhand_Forest_Creature_Harrison_Magby_Art_Station_No_rights.JPG)
+
 # Summary
  Terraformer class manipulator
  
