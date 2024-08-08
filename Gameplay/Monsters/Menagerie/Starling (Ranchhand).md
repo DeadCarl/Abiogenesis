@@ -1,5 +1,5 @@
 
-![first image of ranchhand](Assets/Images/ranchhand_Forest_Creature_Harrison_Magby_Art_Station_No_rights.JPG)
+![first image of ranchhand](ranchhand_Forest_Creature_Harrison_Magby_Art_Station_No_rights.jpg)
 
 # Summary
  Terraformer class manipulator
