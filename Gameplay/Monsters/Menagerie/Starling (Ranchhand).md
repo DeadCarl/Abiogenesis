@@ -52,9 +52,8 @@ size +0, 6'6"
 	- craft tool user
 	- post-human sapience
 # Concept design iterations
-
-![](https://x.com/saintsart_/status/1549499317387493376)
-![Carnival emperor](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
+![](Images/Pasted_image_20240807231938.png)
+[source](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
 
 ![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
 
