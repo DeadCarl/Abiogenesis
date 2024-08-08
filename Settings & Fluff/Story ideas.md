@@ -140,3 +140,7 @@ https://youtu.be/F0YW43JYUwE?si=50ei0ya2TSkbxihO
 Key facts:
 - Arrest a sheriff
 
+
+
+# random keys
+- settle a score

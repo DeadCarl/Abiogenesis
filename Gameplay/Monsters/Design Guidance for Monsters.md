@@ -3,7 +3,7 @@
 
 > During my narrative design career, I’ve been lucky enough to get a bit of practice at monster creation. Before the concept artists or game designers, it’s a narrative designer’s job to build the world and populate it with beings that often become in-game creatures. I was also fortunate enough to be able to attend a talk by [Delaney King on “Art Monsters”](https://www.youtube.com/watch?v=IFabx0qvG0g&feature=youtu.be) where she laid out the four fears we should consider when designing a monster.
 
-## Step 1 - Keynotes Decide how I want my role-player to feel when they encounter my monster.
+## Step 1 - theme - Decide how I want my role-player to feel when they encounter my monster.
 Two words. “Creeped out!” I wanted a type of ‘body snatcher’ that can masquerade as a human and cause deadly conflicts within a community. But I didn’t want to go with the classic ‘pod people’ or doppelganger way. I wanted something that would get under the reader/player’s skin and crawl around in there. There’s a subset of Fear of Infection, you see, and that’s Fear of Infestation. That’s why I looked to nature and settled on centipedes, cockroaches and maggots.
 
 ## Step 2 - Write a short ‘biology’ profile for my monster.
@@ -13,13 +13,10 @@ Two words. “Creeped out!” I wanted a type of ‘body snatcher’ that can ma
 > 
 > **Biology:**
 > 
-> Seeders are made up of a swarm of smaller creatures. Most commonly, these creatures take the form of centipedes although other forms, such as cockroaches and maggots, do occur.
-
- ## Step 3 - Write a ‘behavior’ profile to “Establish the Danger”.
+> Seeders are made up of a swarm of smaller creatures. Most commonly, these creatures take the form of centipedes although other forms, such as cockroaches and maggots, do occur. 
+## Step 3 - Write a ‘behavior’ profile to “Establish the Danger”.
 > 
 > Then I decide the sort of damage I want my monster to cause and how they inflict that damage. When it comes to Seeders, I’m not really talking about combat damage. I’m focusing on what makes this creature monstrous. How does it destroy the lives of everyday people? How does it become a source of fear and dread?
-
-
 #### Behavior:
 > 
 > Seeders insinuate themselves into a human community by targeting an existing member of that community. This is usually someone who is respected and has a great deal of social cache. The Seeder will then spend an extended period of time, from six months to a year, observing that individual in every accessible portion of their lives. It does this by mobilizing its sub-creatures, putting the target human under 24 hour surveillance. During this time, the Seeder learns the mark’s language, speech patterns, routines and behaviors. It continues this observation phase until it has learned enough to mimic that individual with 100% accuracy.
@@ -113,8 +110,6 @@ Shaw, Philip. The Sublime (The New Critical Idiom) (p. 4). Taylor and Francis. K
 > “Fearful symmetry” implies that the tiger has been intentionally made to inspire fear with its unpredictable violence and terror. In these lines the speaker is acknowledging that whoever created the tiger has a capacity much greater than human abilities, while also questioning why any being, no matter how powerful, would create this fear inciting creature.
 
 
-
-
 # source of de kuiper monsters
 
 terrestrial
@@ -124,5 +119,3 @@ terrestrial
 De Kuiper
 	recreations - 
 	Designed - 
-
----
