@@ -13,6 +13,8 @@ Gameplay can be described as a tactical adventure - taking cues from the modern 
 
 #  Themes
 ## Noble-dark
+
+ The sertting is in a constant friction of what needs to be done in the name of the common good, and whether that's too tyrannical.
 ## The State in Social Preservation mode
 - [ ] rewrite required
 Abiogenesis takes place in an setting of an averted apocalypse. All human society narrowly weathered an emergency of unimaginable scale at immense cost. Mammoth pools of resources and knowledge had to be redirected on the spot in response.
