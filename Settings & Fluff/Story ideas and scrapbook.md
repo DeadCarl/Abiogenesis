@@ -133,14 +133,18 @@ todo: combine with reanimator or the wizard
 	4 legged sapient?
 	
 
-# moonbeam 
-https://youtu.be/F0YW43JYUwE?si=50ei0ya2TSkbxihO
 
-# 
-Key facts:
+---
+# Scrapbook
+
+- settle a score or debt
+
 - Arrest a sheriff
 
+- Escape an underground laboratory
 
+- https://youtu.be/F0YW43JYUwE?si=50ei0ya2TSkbxihO
 
-# random keys
-- settle a score
+- "_chime_ All secret base staff are to use the provided oxygen tanks below their desks whilst the facility is flooded to avoid damage to the Los Angeles Metropolitan Area, thank you. _chime_"
+
+- 
